@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-
+  
 
 class DownloadManager: NSObject, ObservableObject {
     static var shared = DownloadManager()
